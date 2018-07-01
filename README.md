@@ -3,6 +3,6 @@
 ## Core
 
 - [ ] javascripting
-- [o] learnyounode
+- [x] learnyounode
 - [ ] stream-adventure
 - [ ] elementary-electron
