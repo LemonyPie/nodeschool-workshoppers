@@ -2,7 +2,7 @@
 
 ## Core
 
-- [ ] javascripting
+- [x] javascripting
 - [x] learnyounode
 - [ ] stream-adventure
 - [ ] elementary-electron
