@@ -2,3 +2,4 @@ node_modules
 .DS*
 .vscode
 .idea
+elementary-electron/**/*.pdf

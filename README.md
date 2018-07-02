@@ -5,7 +5,7 @@
 - [x] javascripting
 - [x] learnyounode
 - [ ] stream-adventure
-- [ ] elementary-electron
+- [x] elementary-electron
 - [ ] how-to-npm
 
 ## Electives
