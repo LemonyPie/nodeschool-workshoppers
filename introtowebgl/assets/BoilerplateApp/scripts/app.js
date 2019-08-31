@@ -25,7 +25,8 @@ var demo = (function(){
                     1000
                 );
             
-            camera.position.set( 0, 0, 100 );
+            camera.position.set( 100, 100, -50 );
+            camera.lookAt(new THREE.Vector3(0, 0, 0));
             
             scene.add(camera);  
 
@@ -40,12 +41,11 @@ var demo = (function(){
 
             requestAnimationFrame(render);
 
-        };
-
-        function render() {
+        }
+    function render() {
                 renderer.render(scene, camera); 
                 requestAnimationFrame(render);
-        };
+        }
        
         window.onload = initScene;
 
